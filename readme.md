@@ -101,8 +101,10 @@ We will set up this on Centos 6 Minimal installation.
     Slave queue ID: 0
     ```
 
-*Source*
+*Reference*
 
 *https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s2-networkscripts-interfaces-chan.html*
 
 *https://community.oracle.com/thread/2546040*
+
+*https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Virtualization/3.3/html/Installation_Guide/Bonding_Modes.html*
